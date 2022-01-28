@@ -11,7 +11,7 @@ const Footer = () => {
     return (
         <footer className="bg-dark text-light" style={footerStyle}>
             <p className="text-center my-0 p-2">
-                Copyright &copy; MyTodosList.com
+                Copyright &copy; MyTodosList/Ambar.com
             </p>
         </footer>
     )
